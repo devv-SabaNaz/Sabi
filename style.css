@@ -183,11 +183,9 @@ nav ul li a:hover {
     border-radius: 20px;
     transition: 0.3s;
 }
-
 .close:hover {
     background: orange;
 }
-
 footer {
    background: #1f1f1f;
     color: white;
@@ -196,10 +194,8 @@ footer {
     margin-top: 40px;
     letter-spacing: 0.5px;
     font-size: 15px;
-    border-radius: 12px;
-    line-height: 1.8; 
+    border-radius: 12px;     
 }
-
 @media screen and (max-width:768px) {
     .items-container {
         grid-template-columns: 1fr;
